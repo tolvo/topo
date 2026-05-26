@@ -5,6 +5,8 @@ A "htop" clone built in Rust to learn TUI development and system interaction.
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
 ![Rust](https://img.shields.io/badge/language-Rust-orange.svg)
 
+<img width="1132" height="145" alt="image" src="https://github.com/user-attachments/assets/6b22cd74-433a-4bbc-bec2-2d48c2b2ebfc" />
+
 ## Features
 
 - **Real-time Monitoring**: Tracks memory usage and active processes.
